@@ -8,3 +8,4 @@ public class Main {
    System.out.println("平均点：" + avg);
  }
 }
+// 合計と平均の表示
